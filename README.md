@@ -1,2 +1,1 @@
 # ebook.github.io
-Crypto_Trading_and_How_to_Grow_Your_Wealth_Expanded_Clean.pdf
