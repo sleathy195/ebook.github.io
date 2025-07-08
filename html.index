@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Your Book Title</title>
+    <title>Crypto Trading And How To Grow Your Wealth</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
-ebookanime.png
             font-family: 'Georgia', serif;
             background: #f5f0e6;
             margin: 0;
@@ -67,8 +66,9 @@ ebookanime.png
 <body>
     <div class="book-container">
         <div class="cover">
-            <h1>Your Book Title</h1>
-            <p>by Your Name</p>
+            <img src="ebookanime.png" alt="eBook Cover" style="max-width: 100%; height: auto; border-radius: 8px; margin-bottom: 16px;">
+            <h1>Crypto Trading And How To Grow Your Wealth</h1>
+            <p>by CodySleath</p>
         </div>
         <nav>
             <ul>
